@@ -1,0 +1,7 @@
+xarray==2025.11.0
+pandas==2.3.2
+numpy==2.3.3
+scikit-learn==1.7.2
+tensorflow==2.20.0
+matplotlib==3.10.6
+xgboost==3.2.0
